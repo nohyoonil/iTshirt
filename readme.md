@@ -1,10 +1,10 @@
 head
 ============
 
-# id
-1.dog   
-2.cat   
-3.rabbit   
+* # id
+  * 1.dog   
+  * 2.cat   
+  * 3.rabbit   
 
 ```java
 public class BootSpringBootApplication {
